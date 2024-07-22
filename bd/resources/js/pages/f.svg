@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793.33" height="1122.7" version="1.1" viewBox="0 0 793.33 1122.7" xml:space="preserve">
+  <defs>
+    <clipPath>
+      <path d="m-0.0027 0h200v200h-200z"></path>
+    </clipPath>
+    <clipPath id="clipPath104">
+      <path d="m10 137h78v30h-78z"></path>
+    </clipPath>
+    <clipPath id="clipPath118">
+      <path d="m10 158h100v30h-100z"></path>
+    </clipPath>
+    <clipPath id="clipPath132">
+      <path d="m25 199h65v18h-65z"></path>
+    </clipPath>
+    <clipPath id="clipPath146">
+      <path d="m25 218h88v18h-88z"></path>
+    </clipPath>
+    <clipPath id="clipPath160">
+      <path d="m25 237h79v18h-79z"></path>
+    </clipPath>
+    <clipPath id="clipPath174">
+      <path d="m92 237h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath188">
+      <path d="m25 249h34v17h-34z"></path>
+    </clipPath>
+    <clipPath id="clipPath202">
+      <path d="m49 249h29v17h-29z"></path>
+    </clipPath>
+    <clipPath id="clipPath216">
+      <path d="m10 282h120v22h-120z"></path>
+    </clipPath>
+    <clipPath id="clipPath230">
+      <path d="m20 313h113v18h-113z"></path>
+    </clipPath>
+    <clipPath id="clipPath248">
+      <path d="m20 328h97v18h-97z"></path>
+    </clipPath>
+    <clipPath id="clipPath266">
+      <path d="m20 343h54v18h-54z"></path>
+    </clipPath>
+    <clipPath id="clipPath284">
+      <path d="m20 358h70v18h-70z"></path>
+    </clipPath>
+    <clipPath id="clipPath302">
+      <path d="m20 373h82v18h-82z"></path>
+    </clipPath>
+    <clipPath id="clipPath320">
+      <path d="m20 388h76v18h-76z"></path>
+    </clipPath>
+    <clipPath id="clipPath338">
+      <path d="m10 420h71v22h-71z"></path>
+    </clipPath>
+    <clipPath id="clipPath352">
+      <path d="m10 450h40v17h-40z"></path>
+    </clipPath>
+    <clipPath id="clipPath366">
+      <path d="m38 450h15v17h-15z"></path>
+    </clipPath>
+    <clipPath id="clipPath380">
+      <path d="m43 450h76v17h-76z"></path>
+    </clipPath>
+    <clipPath id="clipPath394">
+      <path d="m10 471h35v18h-35z"></path>
+    </clipPath>
+    <clipPath id="clipPath408">
+      <path d="m33 471h14v18h-14z"></path>
+    </clipPath>
+    <clipPath id="clipPath422">
+      <path d="m37 471h72v18h-72z"></path>
+    </clipPath>
+    <clipPath id="clipPath436">
+      <path d="m10 501h79v22h-79z"></path>
+    </clipPath>
+    <clipPath id="clipPath450">
+      <path d="m10 516h88v22h-88z"></path>
+    </clipPath>
+    <clipPath id="clipPath464">
+      <path d="m20 547h50v18h-50z"></path>
+    </clipPath>
+    <clipPath id="clipPath482">
+      <path d="m20 562h53v18h-53z"></path>
+    </clipPath>
+    <clipPath id="clipPath500">
+      <path d="m166 8h233v22h-233z"></path>
+    </clipPath>
+    <clipPath id="clipPath514">
+      <path d="m166 33h254v18h-254z"></path>
+    </clipPath>
+    <clipPath id="clipPath528">
+      <path d="m166 45h261v18h-261z"></path>
+    </clipPath>
+    <clipPath id="clipPath542">
+      <path d="m166 56h258v18h-258z"></path>
+    </clipPath>
+    <clipPath id="clipPath556">
+      <path d="m166 67h266v18h-266z"></path>
+    </clipPath>
+    <clipPath id="clipPath570">
+      <path d="m166 78h253v18h-253z"></path>
+    </clipPath>
+    <clipPath id="clipPath584">
+      <path d="m166 90h187v18h-187z"></path>
+    </clipPath>
+    <clipPath id="clipPath598">
+      <path d="m166 116h104v22h-104z"></path>
+    </clipPath>
+    <clipPath id="clipPath612">
+      <path d="m166 141h226v18h-226z"></path>
+    </clipPath>
+    <clipPath id="clipPath626">
+      <path d="m166 153h77v18h-77z"></path>
+    </clipPath>
+    <clipPath id="clipPath640">
+      <path d="m166 164h29v18h-29z"></path>
+    </clipPath>
+    <clipPath id="clipPath654">
+      <path d="m166 175h52v18h-52z"></path>
+    </clipPath>
+    <clipPath id="clipPath668">
+      <path d="m206 175h17v18h-17z"></path>
+    </clipPath>
+    <clipPath id="clipPath686">
+      <path d="m213 175h35v18h-35z"></path>
+    </clipPath>
+    <clipPath id="clipPath700">
+      <path d="m176 186h261v18h-261z"></path>
+    </clipPath>
+    <clipPath id="clipPath714">
+      <path d="m176 198h119v18h-119z"></path>
+    </clipPath>
+    <clipPath id="clipPath732">
+      <path d="m176 209h120v18h-120z"></path>
+    </clipPath>
+    <clipPath id="clipPath750">
+      <path d="m176 220h81v18h-81z"></path>
+    </clipPath>
+    <clipPath id="clipPath768">
+      <path d="m166 242h159v18h-159z"></path>
+    </clipPath>
+    <clipPath id="clipPath782">
+      <path d="m166 253h28v18h-28z"></path>
+    </clipPath>
+    <clipPath id="clipPath796">
+      <path d="m166 264h29v18h-29z"></path>
+    </clipPath>
+    <clipPath id="clipPath810">
+      <path d="m166 276h49v18h-49z"></path>
+    </clipPath>
+    <clipPath id="clipPath824">
+      <path d="m203 276h18v18h-18z"></path>
+    </clipPath>
+    <clipPath id="clipPath842">
+      <path d="m211 276h57v18h-57z"></path>
+    </clipPath>
+    <clipPath id="clipPath856">
+      <path d="m176 287h242v18h-242z"></path>
+    </clipPath>
+    <clipPath id="clipPath870">
+      <path d="m176 298h94v18h-94z"></path>
+    </clipPath>
+    <clipPath id="clipPath888">
+      <path d="m176 309h242v18h-242z"></path>
+    </clipPath>
+    <clipPath id="clipPath902">
+      <path d="m176 321h132v18h-132z"></path>
+    </clipPath>
+    <clipPath id="clipPath920">
+      <path d="m176 332h248v18h-248z"></path>
+    </clipPath>
+    <clipPath id="clipPath934">
+      <path d="m176 343h94v18h-94z"></path>
+    </clipPath>
+    <clipPath id="clipPath952">
+      <path d="m166 365h121v18h-121z"></path>
+    </clipPath>
+    <clipPath id="clipPath966">
+      <path d="m166 376h41v18h-41z"></path>
+    </clipPath>
+    <clipPath id="clipPath980">
+      <path d="m166 387h56v18h-56z"></path>
+    </clipPath>
+    <clipPath id="clipPath994">
+      <path d="m166 399h47v18h-47z"></path>
+    </clipPath>
+    <clipPath id="clipPath1008">
+      <path d="m201 399h17v18h-17z"></path>
+    </clipPath>
+    <clipPath id="clipPath1026">
+      <path d="m208 399h57v18h-57z"></path>
+    </clipPath>
+    <clipPath id="clipPath1040">
+      <path d="m176 410h159v18h-159z"></path>
+    </clipPath>
+    <clipPath id="clipPath1058">
+      <path d="m176 421h246v18h-246z"></path>
+    </clipPath>
+    <clipPath id="clipPath1076">
+      <path d="m176 432h253v18h-253z"></path>
+    </clipPath>
+    <clipPath id="clipPath1090">
+      <path d="m176 444h98v18h-98z"></path>
+    </clipPath>
+    <clipPath id="clipPath1108">
+      <path d="m166 470h96v22h-96z"></path>
+    </clipPath>
+    <clipPath id="clipPath1122">
+      <path d="m166 495h138v18h-138z"></path>
+    </clipPath>
+    <clipPath id="clipPath1136">
+      <path d="m166 507h68v18h-68z"></path>
+    </clipPath>
+    <clipPath id="clipPath1150">
+      <path d="m166 518h39v18h-39z"></path>
+    </clipPath>
+    <clipPath id="clipPath5153">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath5180">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath5207">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath5263">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath5771">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath6194">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6210">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6226">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6242">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6258">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6274">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6290">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6306">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6322">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6338">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6354">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6370">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6386">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6402">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6418">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6434">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6450">
+      <g transform="matrix(.75 0 0 -.75 -3.5081e-7 631.5)">
+        <g transform="translate(-3.0225e-7 -1.713e-5)">
+          <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+        </g>
+      </g>
+    </clipPath>
+    <clipPath id="clipPath6481">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+    <clipPath id="clipPath6512">
+      <path d="m0 0h797v842h-797z" stroke-width="1.3333"></path>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.3333 0 0 -1.3333 0 1122.7)">
+    <rect transform="matrix(.75002 0 0 -.75002 0 842.05)" x="-.0027" width="793.33" height="1122.7" ry=".60526" fill="#fff" stroke="#838383"></rect>
+    <path d="m0 842h208.25v-841.33h-208.25z" clip-path="url(#clipPath5207)" fill="#4c4c4c"></path>
+    <path d="m0 466.17h208.25v-30h-208.25z" clip-path="url(#clipPath5263)"></path>
+    <path d="m0 282.17h208.25v-30h-208.25z" clip-path="url(#clipPath5180)"></path>
+    <path d="m0 174.17h208.25v-50h-208.25z" clip-path="url(#clipPath5153)"></path>
+    <g transform="matrix(.77 0 0 -.77 27.117 827)"></g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath104)">
+        <text transform="translate(15,158.75)" fill="#ffffff" font-family="Arial" font-size="18px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 12.006 17.01 28.997999 42.012001 55.007999" y="0">PIERRE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath118)">
+        <text transform="translate(15,179.75)" fill="#ffffff" font-family="Arial" font-size="18px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 13.014 27 40.014 50.993999 64.008003 77.003998" y="0">COUTURE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath132)">
+        <text transform="translate(30 211.62)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.4559999 8.9040003 11.128 15.576 20.032 22.247999 26.704 31.152 33.375999 37.824001 42.279999 44.495998 48.952" y="0">06 55 55 55 55</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath146)">
+        <text transform="translate(30 230.38)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.8959999 13.352 16.016001 20.464001 24.912001 29.360001 36.032001 44.152 50.816002 55.264 57.040001 58.816002 61.040001 65.040001 69.487999" y="0">n_prenom@mail.com</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath160)">
+        <text transform="translate(30,249.75)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.9040003 13.352 15.568 18.24 22.688 27.136 29.360001 33.807999 38.256001 42.264 44.48 50.256001 54.712002 58.712002 63.16" y="0">122 rue des Roses</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath174)">
+        <text transform="translate(97.162 249.75)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">,</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath188)">
+        <text transform="translate(30,261)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.9040003 13.352 17.799999" y="0">69003</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath202)">
+        <text transform="translate(54.475,261)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.3520002 8.2480001 12.6" y="0">Lyon</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath216)">
+        <text transform="translate(15 296.62)" fill="#ffffff" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 10.054 20.702 31.966 41.403999 50.841999 59.664001 69.101997 79.155998 89.209999 98.648003" y="0">COMPÉTENCES</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath230)">
+        <text transform="translate(25.5 325.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.8720002 7.5279999 11.968 13.736 15.944 20.384001 27.032 31.472 35.911999 38.119999 40.327999 44.768002 49.208 53.192001 55.400002 58.056 62.495998 66.487999 68.255997 72.695999 79.344002 83.783997 85.991997 87.760002 92.199997 96.639999" y="0">Traitement des réclamations</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6450)">
+      <path d="m19.898 321.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath248)">
+        <text transform="translate(25.5 340.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 8 12.456 16.903999 23.576 28.024 32.472 34.695999 39.144001 41.368 43.144001 47.591999 52.048 54.264 58.720001 63.167999 65.384003 69.391998 73.839996 78.295998 80.512001" y="0">Argumentation de vente</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6434)">
+      <path d="m19.898 336.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath266)">
+        <text transform="translate(25.5 355.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 8 12.448 16.455999 20.903999 25.351999 29.351999 31.576 33.352001 37.799999" y="0">Prospection</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6418)">
+      <path d="m19.898 351.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath284)">
+        <text transform="translate(25.5 370.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.776 10.224 14.68 18.68 23.128 24.903999 26.68 28.903999 32.903999 34.68 36.456001 40.903999 45.360001 47.576 52.023998 53.799999" y="0">Conseil clientèle</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6402)">
+      <path d="m19.898 366.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath302)">
+        <text transform="translate(25.5 385.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.7840004 11.56 15.568 17.344 19.559999 24.007999 28.464001 30.68 34.68 39.127998 45.799999 52.464001 56.911999 61.360001 65.816002" y="0">Suivi de commande</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6386)">
+      <path d="m19.898 381.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath320)">
+        <text transform="translate(25.5 400.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.776 10.232 14.68 19.136 23.136 24.912001 27.136 31.584 33.799999 38.256001 39.776001 44.223999 48.231998 52.68 57.127998 59.352001" y="0">Capacité d'écoute</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6370)">
+      <path d="m19.898 396.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath338)">
+        <text transform="translate(15 434.62)" fill="#ffffff" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 8.8219995 18.875999 28.93 39.577999 49.632" y="0">LANGUE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath352)">
+        <text transform="translate(15,462)" fill="#ffffff" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 5.7839999 10.664 15.552 17.775999 22.232 24.448" y="0">Anglais</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath366)">
+        <text transform="translate(43.9,462)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">,</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath380)">
+        <text transform="translate(48.35,462)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 2.224 6.6719999 8.8879995 13.344 16.007999 22.672001 27.120001 31.576 33.352001 37.799999 39.584 42.248001 46.695999 48.911999 51.584 56.911999 61.360001" y="0">Intermédiaire (B1)</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath394)">
+        <text transform="translate(15,483.75)" fill="#ffffff" font-family="Arial" font-size="8px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 2.224 4.8959999 9.3439999 11.568 13.784 18.24" y="0">Italien</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath408)">
+        <text transform="translate(38.125,483.75)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">,</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath422)">
+        <text transform="translate(42.575,483.75)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 7.112 11.56 18.232 22.68 27.128 29.351999 33.799999 35.576 38.248001 42.695999 44.911999 47.584 52.911999 57.360001" y="0">Élémentaire (A2)</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath436)">
+        <text transform="translate(15 515.62)" fill="#ffffff" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 10.054 19.492001 29.546 38.368 48.422001 57.860001" y="0">CENTRES</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath450)">
+        <text transform="translate(15 530.62)" fill="#ffffff" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 10.054 14.762 19.91 29.964001 38.797001 48.223999 58.278 67.716003" y="0">D'INTÉRÊT</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath464)">
+        <text transform="translate(25.5 559.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.7840004 14.232 20.903999 22.68 27.128 29.351999 33.799999" y="0">Badminton</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6354)">
+      <path d="m19.898 555.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)">
+      <g clip-path="url(#clipPath482)">
+        <text transform="translate(25.5 574.88)" fill="#ffffff" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.776 10.224 14.68 19.128 23.576 28.024 32.472 36.928001" y="0">Randonnée</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 842)" clip-path="url(#clipPath6338)">
+      <path d="m19.898 570.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#fff"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath500)">
+        <text transform="translate(171.19 22.25)" fill="#4c4c4c" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 9.4379997 18.875999 28.93 37.751999 47.806 57.243999 66.681999 76.120003 81.267998 90.706001 100.76 111.408 120.23 129.668 139.106 148.54401 153.692 164.34 174.383 184.448 193.875 202.70799 211.53" y="0">SYNTHÈSE PROFESSIONNELLE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath514)">
+        <text transform="translate(171.19 45.875)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4 8.4560003 10.672 15.12 19.576 23.576 27.584 32.032001 36.48 40.936001 43.152 47.599998 49.383999 53.832001 57.832001 60.056 64.503998 68.959999 71.176003 75.624001 80.080002 82.295998 86.744003 91.199997 95.199997 97.416 101.872 103.392 107.848 111.848 116.296 120.752 123.416 125.192 129.64799 134.09599 138.09599 142.552 144.76801 149.224 153.672 155.888 158.112 162.56 167.008 169.23199 171.448 175.896 180.35201 184.8 187.024 189.24001 193.688 195.472 199.92 203.92 208.37601 212.82401 216.82401 221.28 223.056 224.84 226.616 231.064 233.73599 235.952 240.39999" y="0">Je possède plus de 10 ans d'expérience en tant que téléconseiller et</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath528)">
+        <text transform="translate(171.19 57.125)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 2.2160001 6.6560001 8.4239998 12.872 17.312 19.968 24.408001 28.408001 32.848 37.287998 41.279999 43.495998 47.936001 52.375999 55.040001 57.248001 59.456001 63.896 67.896004 72.335999 76.328003 78.543999 82.984001 87.424004 91.863998 94.080002 98.071999 102.512 106.952 110.952 112.72 117.16 118.936 120.704 124.696 129.136 131.35201 133.12 137.56 142.008 144.216 148.65601 153.09599 157.54401 161.536 163.744 165.52 169.96001 173.952 176.16 180.16 184.60001 188.592 193.032 197.48 201.92 205.912 208.12801 212.56799 214.08 218.52 220.73599 222.944 227.384 229.16 231.81599 236.256 240.248 242.464 246.90401" y="0">téléprospecteur, avec une spécialisation dans les voyages d'affaires et</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath542)">
+        <text transform="translate(171.19 68.375)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 1.776 6.2319999 10.232 12.448 16.455999 20.903999 23.568001 27.576 29.351999 33.352001 37.799999 41.807999 44.023998 48.472 52.928001 55.144001 59.591999 64.047997 65.823997 70.272003 76.944 81.391998 85.839996 88.056 90.279999 92.496002 96.496002 98.024002 102.472 104.248 106.472 110.92 115.368 119.368 123.824 125.6 130.048 134.504 138.952 143.39999 145.62399 150.07201 154.52 158.528 160.744 164.744 169.192 175.864 180.312 184.75999 186.98399 191.43201 195.88 199.888 204.336 208.336 210.56 214.56 219.008 220.784 222.56799 227.01601 231.464 235.472 237.688 242.136" y="0">les services de paiement. J'ai développé des compétences solides en</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath556)">
+        <text transform="translate(171.19 79.625)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 2.664 7.1199999 8.8959999 13.344 15.568 17.344 21.799999 26.247999 28.464001 32.472 34.248001 36.023998 40.48 44.928001 47.152 51.599998 53.375999 57.832001 60.048 62.264 66.720001 71.167999 73.391998 76.056 80.503998 84.512001 88.959999 90.736 95.192001 97.407997 99.192001 103.64 108.088 110.312 114.76 119.208 121.432 125.88 128.54401 133 137.448 139.23199 143.67999 150.34399 154.8 158.8 161.01601 165.472 167.688 169.912 174.36 178.808 181.032 185.032 189.48 193.936 196.15199 200.608 202.82401 207.272 211.728 214.392 216.608 218.832 223.28 225.064 229.51199 233.96001 238.416 242.864 247.312 251.76801" y="0">relation clientèle, en résolution de problèmes et en vente par téléphone.</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath570)">
+        <text transform="translate(171.19 90.875)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4 5.5279999 9.9759998 11.752 13.976 18.424 22.872 27.327999 29.104 33.551998 40.223999 44.672001 49.119999 51.344002 53.560001 58.007999 59.535999 63.984001 67.984001 71.991997 76.440002 78.216003 80 84.447998 88.896004 91.120003 95.568001 99.568001 101.792 105.792 110.24 116.912 121.36 125.808 128.032 132.48 136.92799 140.936 145.384 149.384 151.608 156.056 160.504 162.728 166.728 171.17599 177.84801 184.51199 188.96001 193.416 195.192 199.192 203.64799 205.864 207.64 212.09599 216.54401 218.75999 223.216 225.43201 227.64799 232.09599 236.552" y="0">J'ai également d'excellentes compétences en communication et une</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath584)">
+        <text transform="translate(171.19 102.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.9040003 13.352 17.799999 22.256001 24.472 31.136 35.591999 37.807999 40.023998 42.695999 44.472 48.472 52.928001 55.144001 59.591999 64.047997 68.047997 70.264 72.047997 76.496002 80.944 82.727997 86.727997 88.503998 92.959999 94.736 98.736 100.96 105.408 109.856 112.08 116.528 120.976 124.984 129.43201 131.64799 136.104 140.552 142.76801 147.224 151.672 156.12 160.576 165.024 169.472 173.48" y="0">bonne maîtrise des logiciels de base de données.</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath598)">
+        <text transform="translate(171.19 130.25)" fill="#4c4c4c" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 9.4379997 18.875999 28.313999 37.751999 47.806 52.953999 62.391998 72.434998 82.488998" y="0">EXPÉRIENCE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath612)">
+        <text transform="translate(171.19 153.88)" fill="#4c4c4c" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.5440001 13.528 19.632 26.615999 34.040001 41.911999 49.344002 56.327999 63.312 67.192001 73.288002 79.391998 86.375999 93.800003 97.68 104.664 112.544 118.928 125.912 133.79201 140.776 147.76801 151.64 159.064 162.24001 169.23199 175.76801 181.864 188.856 192.728 200.15199 207.144" y="0">TÉLÉCONSEILLER VOYAGES D'AFFAIRES</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath626)">
+        <text transform="translate(171.19 165.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 12 16.448 19.112 20.896 24.896 29.344 33.792 36.015999 41.344002 45.344002 49.792 52.464001 56.911999 60.911999" y="0">American Express</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath640)">
+        <text transform="translate(171.19 176.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.3520002 8.2480001 12.6" y="0">Lyon</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath654)">
+        <text transform="translate(171.19 187.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4 8.4560003 10.232 12.008 13.784 18.24 20.455999 22.672001 27.128 31.576 36.023998" y="0">Juillet 2020</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath668)">
+        <text transform="translate(213.89 187.62)" fill="#808080" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">‐</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath686)">
+        <text transform="translate(218.77 187.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.3360004 11.56 16.007999 20.464001" y="0">Actuel</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath700)">
+        <text transform="translate(181.69 198.88)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 8 12.448 16.903999 21.351999 24.016001 28.472 30.688 35.136002 39.591999 41.807999 45.807999 50.264 54.712002 57.375999 61.824001 66.279999 68.496002 72.944 77.400002 79.615997 81.391998 85.848 88.064003 90.727997 95.183998 99.183998 103.632 106.304 110.304 114.752 116.968 118.752 123.2 127.648 129.87199 134.32001 138.76801 142.776 144.992 149.44 153.896 157.896 161.896 163.67999 168.12801 170.79201 174.79201 177.01601 181.464 185.912 188.136 192.136 196.584 200.592 205.03999 209.48801 213.944 216.16 220.608 225.064 229.51199 232.17599 234.392 238.84801 240.62399 245.07201" y="0">Prendre en charge de la réservation des dossiers de voyage pour plus</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath714)">
+        <text transform="translate(181.69 210.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.9040003 11.12 15.576 20.024 24.472 28.927999 31.143999 35.144001 36.928001 38.703999 43.152 47.608002 49.824001 53.824001 56.048 60.048 64.496002 68.952003 73.400002 77.856003 82.304001 84.519997 88.975998 93.424004 97.872002 102.328" y="0">de 1000 clients chaque année</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6322)">
+      <path d="m176.09 194.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath732)">
+        <text transform="translate(181.69 221.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 12 16.455999 18.672001 20.896 23.559999 28.016001 30.232 34.68 39.136002 43.136002 45.360001 47.576 49.360001 51.576 54.240002 58.695999 62.695999 64.919998 69.367996 73.823997 76.040001 78.255997 80.928001 85.375999 89.832001 93.832001 98.288002 102.736 105.4" y="0">Émettre des titres de transport</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6306)">
+      <path d="m176.09 217.18c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath750)">
+        <text transform="translate(181.69 232.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.224 10.672 13.344 17.792 20.455999 22.68 24.455999 28.912001 31.128 33.344002 37.799999 41.799999 44.015999 48.472 51.136002 55.591999 57.807999 59.584 64.040001" y="0">Gérer la facturation</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6290)">
+      <path d="m176.09 228.43c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath768)">
+        <text transform="translate(171.19 254.38)" fill="#4c4c4c" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.5440001 13.528 19.632 26.615999 34.040001 41.911999 49.344002 56.327999 63.312 67.192001 73.288002 79.391998 86.375999 93.800003 97.671997 105.104 112.976 119.512 123.392 129.48801 133.36 140.79201" y="0">TÉLÉCONSEILLER HOT LINE</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath782)">
+        <text transform="translate(171.19 265.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 10.224" y="0">SFR</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath796)">
+        <text transform="translate(171.19 276.88)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.3520002 8.2480001 12.6" y="0">Lyon</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath810)">
+        <text transform="translate(171.19 288.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.664 11.112 13.784 17.784 20 24.448 28.903999 33.352001" y="0">Mars 2017</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath824)">
+        <text transform="translate(211.21 288.12)" fill="#808080" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">‐</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath842)">
+        <text transform="translate(216.1 288.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.888 9.3360004 13.336 16 17.784 22.232 24.896 27.112 31.559999 36.015999 40.464001" y="0">Février 2020</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath856)">
+        <text transform="translate(181.69 299.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.3360004 13.336 15.12 19.120001 21.336 25.792 28.455999 30.672001 32.448002 36.903999 40.903999 43.119999 47.127998 51.576 58.240002 64.912003 69.360001 72.024002 76.024002 80.480003 84.928001 87.143997 91.152 93.367996 97.816002 102.272 104.936 107.152 109.368 113.824 115.6 120.048 124.504 128.952 133.39999 137.856 142.304 144.52 146.29601 150.752 153.416 157.416 159.64 164.088 168.536 170.75999 175.20799 179.65601 184.104 188.56 193.008 197.008 199.23199 203.23199 207.67999 210.35201 212.56799 214.34399 218.79201 223.248 225.912" y="0">Assister les commerçants par téléphone lors de pannes sur leurs</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath870)">
+        <text transform="translate(181.69 310.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 2.224 6.6719999 9.3360004 16 17.784 22.232 26.68 31.136 35.136002 37.352001 41.799999 46.256001 48.472 52.919998 57.368 59.152 63.599998 70.264 74.711998 79.167999" y="0">terminaux de paiement</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6274)">
+      <path d="m176.09 295.18c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath888)">
+        <text transform="translate(181.69 321.88)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.888 9.3360004 12 18.672001 23.120001 25.784 28.007999 32.456001 34.231998 38.688 42.688 44.903999 49.360001 53.807999 56.023998 60.472 64.928001 69.375999 71.592003 75.599998 80.047997 86.711998 93.384003 97.832001 100.496 104.504 108.952 113.4 115.624 119.624 121.84 125.848 130.29601 134.744 139.192 143.64799 148.09599 150.312 154.76801 159.216 163.664 168.12 172.56799 174.784 179.24001 183.688 188.136 190.808 193.024 194.8 199.256 201.472 208.136 209.912 213.92 218.368 220.584 225.03999" y="0">Former plus de 500 commerçants chaque année pour la mise en</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath902)">
+        <text transform="translate(181.69 333.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4 8.4560003 11.12 15.12 16.896 20.903999 25.351999 27.568001 32.023998 36.472 38.688 40.903999 45.360001 48.023998 54.688 56.464001 60.919998 65.367996 69.816002 73.823997 76.040001 80.487999 84.935997 87.160004 91.608002 96.056 97.839996 102.288 108.952 113.4 117.856" y="0">service de terminaux de paiement</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6258)">
+      <path d="m176.09 317.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath920)">
+        <text transform="translate(181.69 344.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.888 9.3360004 13.792 16.455999 20.903999 22.688 25.351999 27.568001 32.023998 36.472 38.688 42.695999 47.144001 51.591999 56.048 60.495998 63.167999 65.384003 67.599998 69.823997 74.272003 78.272003 82.727997 87.176003 88.952003 93.407997 97.856003 102.312 104.528 108.976 113.432 117.88 120.544 122.768 124.544 128.992 131.216 135.216 139.672 144.12 146.336 148.12 152.56799 157.01601 159.688 164.136 166.35201 168.136 172.584 177.03999 179.256 183.70399 185.92799 188.144 189.92 191.448 195.896 198.112 199.896 201.672 203.45599 207.45599 211.90401 214.12801 215.90401 220.35201 224.808 227.024 231.472" y="0">Fournir un support technique pour la configuration et l'utilisation de</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath934)">
+        <text transform="translate(181.69 355.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 2.224 6.6719999 9.3360004 16 17.784 22.232 26.68 31.136 35.136002 37.352001 41.799999 46.256001 48.472 52.919998 57.368 59.152 63.599998 70.264 74.711998 79.167999" y="0">terminaux de paiement</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6242)">
+      <path d="m176.09 340.18c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath952)">
+        <text transform="translate(171.19 377.38)" fill="#4c4c4c" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.5440001 13.528 19.632 26.615999 33.599998 41.032001 47.568001 54.551998 61.976002 69.400002 73.279999 80.264 84.143997 90.528 98.400002 102.28" y="0">TÉLÉACTEUR B TO B</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath966)">
+        <text transform="translate(171.19 388.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.7840004 12.448 16.896 20.896 25.351999 27.128" y="0">Eurocall</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath980)">
+        <text transform="translate(171.19 399.88)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.3200002 7.0799999 8.8479996 10.608 15.048 19.48 22.136 26.568001 31.007999 35.439999 39.872002" y="0">Villeurbanne</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath994)">
+        <text transform="translate(171.19 411.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.3200002 9.3039999 11.952 13.712 15.472 17.672001 22.112 26.544001 30.976" y="0">Avril 2015</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1008)">
+        <text transform="translate(208.84 411.12)" fill="#808080" font-family="'Times New Roman'" font-size="8px" xml:space="preserve">
+          <tspan x="0" y="0">‐</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1026)">
+        <text transform="translate(213.73 411.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.888 9.3360004 13.336 16 17.784 22.232 24.896 27.112 31.559999 36.015999 40.464001" y="0">Février 2017</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1040)">
+        <text transform="translate(181.69 422.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.776 10.232 14.232 18.68 23.136 25.351999 27.128 31.584 36.032001 40.487999 44.936001 47.599998 49.824001 54.271999 56.487999 58.712002 63.16 67.608002 70.279999 74.727997 77.391998 79.615997 81.391998 85.839996 89.848 92.064003 96.512001 100.968 105.416 109.864 111.648 115.648 117.864 122.32 126.768 128.98399 131.65601 136.104 140.56 142.776" y="0">Réceptionner et gérer les appels entrants</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6226)">
+      <path d="m176.09 418.18c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath1058)">
+        <text transform="translate(181.69 433.62)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.776 10.232 14.68 16.455999 18.24 22.24 26.688 29.360001 31.576 36.032001 40.48 44.48 46.703999 51.152 55.599998 60.056 64.503998 68.952003 71.176003 75.624001 79.624001 81.848 86.295998 90.744003 92.968002 96.968002 101.416 103.64 105.416 109.416 111.64 116.088 120.088 122.312 124.088 128.536 132.992 135.20799 139.664 144.112 148.56 151.23199 155.67999 159.67999 161.90401 166.35201 170.8 174.808 177.024 181.024 182.808 184.584 189.032 193.48801 195.70399 199.70399 201.92799 206.37601 210.37601 212.16 216.16 218.37601 222.832 227.28 229.504" y="0">Réaliser des enquêtes de satisfaction auprès des clients existants</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6210)">
+      <path d="m176.09 429.43c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath1076)">
+        <text transform="translate(181.69 444.88)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.664 11.12 13.336 15.552 18.224001 22.672001 24.896 29.344 33.792 36.015999 40.464001 42.240002 46.695999 50.695999 55.144001 57.368 61.816002 66.264 70.720001 72.935997 77.384003 80.056 84.503998 88.512001 92.959999 97.407997 101.416 103.632 105.408 109.864 114.312 116.528 120.984 124.984 127.2 128.98399 132.98399 137.44 139.65601 144.104 148.112 152.56 157.008 159.23199 161.448 165.896 170.35201 173.01601 179.67999 181.464 185.464 187.688 192.136 196.584 198.808 201.024 203.688 208.144 212.592 216.592 221.048 223.71201 225.92799 230.384 232.16 236.616" y="0">Mettre en place une prospection active ayant permis de trouver plus</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1090)">
+        <text transform="translate(181.69 456.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 8.9040003 11.12 15.568 20.024 24.472 26.688 31.143999 35.591999 40.040001 44.048 48.495998 52.944 57.400002 61.400002 63.616001 67.624001 69.400002 71.176003 75.632004 80.080002 82.295998" y="0">de 500 nouveaux clients</tspan>
+        </text>
+      </g>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)" clip-path="url(#clipPath6194)">
+      <path d="m176.09 440.68c0.88281 0 1.6016 0.71485 1.6016 1.5977s-0.71875 1.6016-1.6016 1.6016-1.5977-0.71875-1.5977-1.6016 0.71485-1.5977 1.5977-1.5977z" fill="#808080"></path>
+    </g>
+    <g transform="matrix(1.3333 0 0 -1.3333 4.6775e-7 797)">
+      <g clip-path="url(#clipPath1108)">
+        <text transform="translate(171.19 484.25)" fill="#4c4c4c" font-family="Arial" font-size="11px" font-weight="bold" xml:space="preserve">
+          <tspan x="0 8.8330002 19.481001 29.524 40.787998 50.016998 58.839001 63.987 74.635002" y="0">FORMATION</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1122)">
+        <text transform="translate(171.19 507.88)" fill="#4c4c4c" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 6.9920001 13.528 20.511999 24.392 30.775999 38.647999 46.071999 53.504002 57.375999 64.360001 72.68 79.664001 83.536003 89.639999 97.512001 101.392 108.376 112.248 119.68" y="0">BTS TOURISME LOISIRS</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1136)">
+        <text transform="translate(171.19 519.12)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 4.448 9.7840004 16 18.216 24 25.775999 30.232 34.231998 36.448002 43.119999 47.568001 49.344002 52.015999" y="0">LPO Clos Maire</tspan>
+        </text>
+      </g>
+      <g clip-path="url(#clipPath1150)">
+        <text transform="translate(171.19 530.38)" fill="#808080" font-family="Arial" font-size="8px" xml:space="preserve">
+          <tspan x="0 5.336 9.7840004 14.24 18.688 23.136" y="0">Beaune</tspan>
+        </text>
+      </g>
+    </g>
+    <g fill="#fff">
+      <path d="m28.669 568.4-1.8276 0.42176c-0.19786 0.0469-0.40093-0.0573-0.48424-0.24473l-0.84352-1.9682c-0.0729-0.17182-0.02083-0.37489 0.12497-0.48945l1.0622-0.87475c-0.63004-1.3486-1.7391-2.4681-3.1137-3.1137l-0.86955 1.0674c-0.11976 0.1458-0.32283 0.19266-0.49466 0.11976l-1.9682-0.84352c-0.18745-0.0833-0.29159-0.28638-0.24472-0.48424l0.42176-1.8276c0.04165-0.19266 0.21348-0.32803 0.41134-0.32803 4.4988 0 8.154 3.6448 8.154 8.154 0 0.19786-0.13538 0.36969-0.32803 0.41135z" clip-path="url(#clipPath6481)"></path>
+      <path d="m28.85 539.85c0.06251 0.0469 0.15106 0 0.15106-0.0729v-3.1982c0-0.41671-0.33337-0.75008-0.75008-0.75008h-6.5007c-0.41671 0-0.75008 0.33337-0.75008 0.75008v3.193c0 0.0781 0.08855 0.12501 0.15106 0.0729 0.349-0.27086 0.81258-0.61464 2.4065-1.7762 0.33337-0.23961 0.89072-0.74487 1.4429-0.73966 0.55735-5e-3 1.1251 0.51047 1.4429 0.73966 1.5939 1.1616 2.0575 1.5054 2.4065 1.7814zm-3.8494-2.021c0.36462-5e-3 0.88551 0.45838 1.146 0.6459 2.0731 1.5054 2.2346 1.6356 2.7086 2.0106 0.09376 0.0729 0.14585 0.18231 0.14585 0.2969v0.29691c0 0.4115-0.33337 0.75008-0.75008 0.75008h-6.5007c-0.41671 0-0.75008-0.33337-0.75008-0.75008v-0.29691c0-0.11459 0.05209-0.22398 0.14585-0.2969 0.47401-0.36983 0.63548-0.50527 2.7086-2.0106 0.26044-0.18752 0.78133-0.65111 1.146-0.6459z" clip-path="url(#clipPath5771)"></path>
+      <path d="m25.84 517.74-3.8398-3.1625v-3.4178c0-0.18235 0.15109-0.33344 0.33344-0.33344l2.3341 5e-3c0.18235 0 0.33344 0.15109 0.33344 0.33344v1.9954c0 0.18235 0.15109 0.33344 0.33344 0.33344h1.3338c0.18235 0 0.33344-0.15109 0.33344-0.33344v-1.9954c0-0.0886 0.03647-0.17193 0.09899-0.23445 0.06252-0.0625 0.14588-0.099 0.23445-0.099l2.3341-5e-3c0.18235 0 0.33344 0.15109 0.33344 0.33344v3.4178l-3.8398 3.1625c-0.09378 0.0729-0.22924 0.0729-0.32302 0zm6.0696-2.1517-1.7401 1.438v2.8863c0 0.13546-0.10941 0.25008-0.25008 0.25008h-1.167c-0.14067 0-0.25008-0.11462-0.25008-0.25008v-1.5161l-1.8652 1.5369c-0.36991 0.30218-0.90133 0.30218-1.2712 0l-5.2777-4.3451c-0.04689-0.0417-0.08336-0.1042-0.08857-0.16672-0.0052-0.0677 0.01563-0.13546 0.05731-0.18235l0.53142-0.64604c0.04168-0.0521 0.1042-0.0886 0.16672-0.0938 0.06773-5e-3 0.13546 0.0156 0.18756 0.0573l4.8974 4.0377c0.09378 0.0729 0.22924 0.0729 0.32302 0l4.9026-4.0377c0.04689-0.0417 0.11462-0.0625 0.18235-0.0573 0.06252 5e-3 0.12504 0.0417 0.16672 0.0886l0.53142 0.64604c0.04168 0.0521 0.06252 0.11983 0.05731 0.18756-0.0052 0.0625-0.04168 0.12504-0.09378 0.16672z" clip-path="url(#clipPath6512)"></path>
+    </g>
+    <image transform="scale(1,-1)" x="14.484" y="-842.13" width="166.8" height="166.8" preserveAspectRatio="none" xlink:href="data:image/jpeg;base64,/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAAAyAAD/4QMsaHR0cDov L25zLmFkb2JlLmNvbS94YXAvMS4wLwA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENl aGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4 OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0OCA3OS4xNjQwMzYsIDIwMTkvMDgvMTMtMDE6 MDY6NTcgICAgICAgICI+IDxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5 OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+IDxyZGY6RGVzY3JpcHRpb24gcmRmOmFib3V0PSIiIHht bG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6eG1wTU09Imh0dHA6 Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUu Y29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBo b3Rvc2hvcCAyMDIwIE1hY2ludG9zaCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo3QUVCQTRB QjFGMTExMUVFQTIwRkMzRDgwNjVEOTNEMSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo3QUVC QTRBQzFGMTExMUVFQTIwRkMzRDgwNjVEOTNEMSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjpp bnN0YW5jZUlEPSJ4bXAuaWlkOjdBRUJBNEE5MUYxMTExRUVBMjBGQzNEODA2NUQ5M0QxIiBzdFJl Zjpkb2N1bWVudElEPSJ4bXAuZGlkOjdBRUJBNEFBMUYxMTExRUVBMjBGQzNEODA2NUQ5M0QxIi8+ IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5k PSJyIj8+/+4ADkFkb2JlAGTAAAAAAf/bAIQACAYGBgYGCAYGCAwIBwgMDgoICAoOEA0NDg0NEBEM Dg0NDgwRDxITFBMSDxgYGhoYGCMiIiIjJycnJycnJycnJwEJCAgJCgkLCQkLDgsNCw4RDg4ODhET DQ0ODQ0TGBEPDw8PERgWFxQUFBcWGhoYGBoaISEgISEnJycnJycnJycn/8AAEQgBSAFIAwEiAAIR AQMRAf/EAKUAAAEFAQEBAAAAAAAAAAAAAAACAwQFBgEHCAEBAAIDAQAAAAAAAAAAAAAAAAMEAQIF BhAAAQMCBAQEAggFBAIDAAAAAQACAxEEITESBUFREwZhcSIyUjOBkaGx0UIjFMFiNBUH8JJDU4Ik 4XI2EQACAQIEBAQDBgUFAQAAAAAAAQIRAyExEgRBUWEFcSIyE4GRocFCYnIUFbHRUiMzgkNTYwaD /9oADAMBAAIRAxEAPwDFoQhACEIQAhC7pKA4hd0Fd0FAJQlaCjQUAlCXoK503ckAlCV038GlAik+ EoBKEvpSfCUdKT4SgEIS+lJ8JR0pPhKAQhL6UnwlHSk+EoBCEvpSfCVzpv8AhKAShK0P5FGh/IoB KErQ7kuaTxCA4hdoihQHEIohACEIQAhcXQgBCEIAQhCAEIQgBCEIAQhCAEIQgOtTwGCjtd6lKAwQ BQLtF2iKIAouhoXQEoBAJ0jku6QlALtEAmi7RKougIBNEUS9KNKARRFEvSu6UA1RFE5Qo0lANkJJ Ce0pOkk0GZyQDWlcDS7AZ8lX7zvcO1OEMberc8j7W+ayVx3BezSF75TU5huSA3FxNDbML5XhtOHF Ihmt7iPXHK0jksNHdy3LsHmuZBXDLcsBc4aOdFtQG96Z8McUlzaZ/QsW65vH2ZmZIaxkAjmOCubD dZ/20ckwMkYwc78wosNAuKLlF2Ga3uWB8D6g8DmlEUWAIQlLiARRdQhACEIQAhCEAJGvEhLUV79M jggJNUJtrq4oQDqEIQAhCEBwe4KW32hRB81qmIDqEBCAWF0LgSggBKAXAlgIDgCUAuhdCA5RdolA VXdKARRFE4Au0QDVEUTlF2hOI4IBrSTkKqo3bfrXaAWsPVuqYNGTSeJSu5t8Oz2ohtyP3kwwOelp 4/avNpJZpXEyOLnvNSTxJQDlzdS3Ur5pHlz3uLnE80iOPqeltdRySA12dPBS7WC+Dg+CJx82lKpZ uhlRk8k2NsimikFKh454VWjit4L+EMlrDKQcMwcFBfc3DW6L+zLh8bW0I8QaIj3BrB0mvcA35MhB y+FyKSeTqHGSzTQ9axOjfJbSso2P06h+YZK1gbHZ2hZKA0ageVWlZx+7zB7izj7geY5FRp9yubg0 kcS2lNJWzMGlggLHi5gPoDwVcieMvAlIbqHpA5rI2e89GRvVGqHTpcxSDeh8sNy0lzHOq1uVKYLU Gqcwtz44pNF2Odt1C2ZmVKEckIBFFwpZSUBxCEIAQhCAFAmP6zh4qeq2T+of5oCVGcELkeSEBJQh CAEIQgOf8jVMUL84UwHBAdC6kgrtUA4EoJAKUEAsJYTYKW0oBYCUAkhOAYoAASqIC6gABFEoBKog G6LksrLWCW5k9sTS6nM8E5Q0wzWc703H9rtzLKPCe4NX+DRQoDC7tfSbjfSXUhrqPpbnRvAKVt20 y3WhxafUcBRN7RaCe5GvEcF6Zsu2wiSJrWABtCob9320WdtYVyVXwK6x7TgbJF1WVqKkELbWPbdm GtpGAPJSm27eo3UMhQK4tQBSi59y5KeKdDrRtwjkirk7WsJ26JIgRlkqe+/xRt18D0iYXnKmX3re tzClsYTmluU4v1Gk4xlnFHil7/h2/ixgkDhwKzO6f4/3bbnESsNGiuoCoX0vprmol5bwyj9RgdTm Kqb9RdXGpDLb25KlKHyXcWk1q8xytIPDxRFcFmkV9uQXtHenY8d4Dc2cf6oxLWheO30BtpnQTt0G M4tyNQrli8ripk0Ub22lbxzTNV27csuLeS3GDmjV58FZ0We7PY18k82RaKNFeGC0xFcQpWVhkhJK dIKQQsGRCF1CA4hCEAKtf/UP81ZKtk+e/wA0BJjyQiPJCAkoQhACEIQCT7gpIOCiu9wUjVggFgro KbBSgUA4CnAUzVLByQDoS2lNApbUA8E4DimgljNAOBKCS1LCA6EpAXRigBoqRhVeZ943jrveZtJP Si/TZy9JK9OGhpLZHBoLXAk8MCvPn7yHsuthltWXkYe79tP+YH4q1HJEFmRu2rV739RzSGj2nmvV e37NwjExaaZA+K8ysLjc+iY7drLcQ0YXUOJGHjirhk/fFzFSF7hCwVDBQA04qtuI68K0Oht6264N 4VwPUWCs1Cri1Y0DxXgsXcXcG1XYbevfC6vud7fsqvTO2+8f3gZFdtGpxAD25HDNVZWXFJ5+BZt7 nVJxaoegQw19WafAom7WVhaKGuGakChP8VjTTE3bZwYJi4ocFJcyowKiygtNCtZMJkNwFDqFRyXi X+VdkgtLmLcYm6eufUPr/Be4vHpK8q/yywSRWkFfUKuP2rfbSaupczTcpOxKvAyHZsR/ZXMrxTUa MPMYK+LaYKD2uwN2dppQOcrFzaEhdSXI4ow4JohPuFAmiFgyNoXSkoAQhCAFWSfPf5qzVZJ89/mg JMeSER5IQEpCEIAQhCAQ73BOgps+4JaAUEoFIC6gHAUsJoFLBQDzSltTLSnGlAPtKcCZYU61AOtS xgkDgloBQSgkhKGRJwwWHkDIbzudzcblJY24rCyolc5VWwbe7+4XcwbVsTX6PMg5KfuBkddTQWnp lkJkmlOWn/QWg7ZtLdsLA8eqSut3H1LVypFstKz5oJEK2t/2m0suugS4vc59BmSiDuPeWajFZvDG UwyqFu9isI523OzXOFC50Z+Jrq0I8k9J23f2LSzQLu2rUEENePoNSqSvJ+pVOh7Tp5XTAwG47rFv Vi03MTo5TUCN4qBTD1UyWZ23dTtd8WGvQDqOjGQPNep7xt9s+0lEVi+KSRumUj8w+peZWOw3l13A 3boWh+s0krjpb/N4qW3O21KlVTOpBKF1UrRtvBo9h7c7ogfA1l/DJZu0giR3qjPkWgp/de9IbOIv tJY5GcJK/ZSqsLra4Nm7SuI6dZttDTS/1CvkvGtt22EWMW4Xjes24cXRsODBUD2sKhweLy/mT1eS fj8D0a0/yVbBrXXMrak0LccFs7Ld7DdoWyW8oLnAHTVeP2vbOy70RH6YzmXRuBIp/KMVfQdrbps0 JvdrvRO2EghrcDpH5SKrMlbpk0+pha65proeizjSCOC8V/yHuH7y7dT/AI/S1eo2O9xbpbGN9Irw Mxid+amBLV45ubhe3oidjWUih44nNbbWH9zVyId7Nq2or7zxLLabf9vtVtFkQ2p+tPuCkEBoEYFA wUpwTLgr7dXU5lKDD8k0U89NFYA0UlLISCgOIQhACrZPnv8ANWSrZPnv80BIjyQiPJCAlIQhACEI QCT7glpB9wS0ABdquIQCwUsFNpbUA40pxpTQTjUA8wp5pwTDU604IB4JQSAUsHBAOLkvyngcWoBX XVcxzeJFAhlZoyd2WW8LnH+omAYB9KvNqZoiiax1XNaAT4rNb86a3uoreSLS8ZSVNKK72vW2O26Z rq9xVe9hAu2ZKd1uPBUN3BFNPDE5wLZY6mKaPBwPiRmPBSXdy79ZNMd5YC7AGEsfoNPIA1Te3Xgj Y0O4cFOvdwAhDiQ08MBiuam06I6mlNVM1u/c+/blbmGzsGWDXHS+eZwc4DmA4NTvZOzRW1wJmtMj y6stw7Fz3fgqOfuS0u2Xjbx7Y5Q7RFGTSq9H7OlsrzbYnQEAsFHeamSlTFUrmRulfyk3uZkh2C9h iGpz2ijeYBFVlXbNHNs22XLbUFjYG0a0YMJFDhRbq+jD43xZhwLfrCzuxXzdqc/Y91JYyIn9tcP9 pYcA018lh4PSYUYuGrNrNdGYSTsd4kku9rvHwFzg+YNqDUGtG0Kl7JvG8We5ttb2Bwaat1iulwGD XEUzIzXo02zW1wevA+jXCodH7SPoVPuX9r2wB17KC8H9OIU6rjya3xWbl2bopJeJi1agquNVUx/f Vw7av7fcWBEN2Xl8bwPyk1cCOVVQ7XuO3bp6pbMt3bVrdPTTFpGGDaUrVXPdm2bjvF3Z0iLL68Gi 3tz7YYa0LneJwOScZBtdps7bO2ic29gfonneKFzsTh4K3YSjCONZS/gVN1rk2opaYcepAfmTx4pl yfIPHNMuCsnOGHjBMlPuGCZcgGikFOEJBCASVxdK4gBVsnz3+aslWyfPf5oCRHkhEeSEBKQhCAEI QgEn3hLSD7wloAQhCAUltSEtqAWMk41NjJOBAOBPNyTATzMkA61LGSbCWMkA4EtuJTYSmHNAY7uL Vcb09gPpiGnyxWk7bhhkhljkf6oWh0f05/csde3enf7ok4ueQVdds3Yi3aaGSuh7aYcxXBQ7iL0Y cCztJUmupY3XcMlrduhBwaBRR7juy6lbpeKgZLQ7l2mzeNtkkgiEN4DqikGZpjQrF7Fs3cG4X1zt 5ZR9qHOe14zDfxVSCjJN8UdCepNJOlSl3ITX8zpW4OPJb3sW/wB7sA230jpkV1ElN22yXL5T/c9s laGYPlYBQDnmrhva8Eb2z2m4YEUbHJUEfyijVJKcWqMQtzi3P1VNXte5dw3G5uguoWPsHN9E7Sat PI4Kbfw285ba341OdgHZH7Fk7Fl/tT2vaXaa1JJqCtFebrb7natIIbPGRXnUKtOnBk1t8ybF21A6 PTFdyxsoKBpJw5YlOwbHt1m7qRx67gf8spLz9TiQF2xv6MYHHMUTe+X4htdER/8AYuCIWU/nwqie qi+prck41xwIHSurne2bjCRoYDG2uZyrT6lnO43xf3A28AAZHi6nF54/at5LJFtm1dag1W8dQf5i Kn7V5jczuuZZLh/vkcXFXNvB6nJuqWCRR3NzyKCzeLGHGuKZcnimXK0UBl2SZKedkmSgG3ZpBS3Z pBQCCuLpXEAKtk+e/wA1ZKtk+e/zQEiPJCI8kICUhCEAIQhAJPuCWkH3BLQAii6EIDqWMEgJYQCx knAmwnG5oBwBONwCbCcCAcCcCbCW0oBwJTM0gFdqsoHn3ccH7bfLhhw6hL2P4UKb2m8kg3C1EctC 1wx5q672sOpbxbk3OP0Ppy/0Vi7GVzLuNwGqhBASSqmbRk4tNH0fYXBkttRzLQa+JC7DbMuZuuw9 KY+l07fcRlpPgqjtW4N5twa01lYMW8fFdvL7cdtlc+3wi/6wKlzvoXIacZtPmd2M4ytp0rgej2Mz Yrd0d4xrnSACrRgQBTFG47dsd/EI7iJg9NGkChHksJt/dksIb++bR7zRrKHitdYXlpubTQYtwPgc 1PqXFIgUVWqk0ebdx2W/7TvAte3GvvrKQUMLsmnHGvpCh7dZ9wtv44ryPpyl1ZGjEAcsCV7DGxsD XacAcXFZfct7s7OSe4gZ1HirWAZV5qG5KuEYm9aOrlkO3V1Z7awM1VnLa9Mc6LNs3eZ292st+KWk fqLRjQ1BFVXG8Lnu3C7PUmfVwDj7RnQAqHC/q6pjj1CTQ5Urgp7FhP1Fbc38PLnU1Pc3cMW5NZab fUQNOqV/xHkswUup8vBJKuQgoqkShKTbqxDky7innJl3FbGjdRl2SZdgnnZJl+aAbKQUspBQCCFy iUVxAACrJPnv81ZjNVknz3+aAkR5IRHkhASkIQgBCEIBJ9wS0g+4JaA6EICEB0JYSUoIBYTjc02E 43NAOBOBNhOBALCUEkJQQCwV2qQEpMUCv33Q+yEbqFrsC0rzW6jksLk9MUaDVjjyXom9kUjZWrvB Za/tBdRuZ+YYgrGvGhJGFYt8i57P7om22VsgcSH1Dwea9LspHbg9txUFhIL3n8oONKLwO3lk264A cMQfSOBXoOx91CFrHyyBsdKGOuZ5KvuNu5PXEs7bcKKcJunieo2WyWs08j5QHSZxhwqKK8sbaysm P/bgAn1ONcyMF5/Z97Q0I1EuOTxhQck3u/d8UUEcVjJ+rSpeThmc1X9udaUZZd+C4qhpt77ojgt7 gNdQtaQSCvLbXe72RkjmOBEhpV2NBzUC/wB4n3ud0MTi1gNZOFSpm2bfPeubYbbGZLiSgcQKtYOJ qrNuwrcU5vPEp3Nx7kmoLDIcZ1tyuHQDU57ADI5tdLWD8QrxoY1jWsxa1oA+gK4m2ODtft51v7r2 4c0TTZk45A8sVRtAa0AZKWDUk2sq4EVxSi0pZ0F1SXFBKTVbkTOOTZS3FNlANOyTL8085MvzQDZS CllIKASVxBRVAAzVZJ89/mrMHFVknz3+aAkR5IRHkhASkIQgBCEIBJ9wS0g+4JaA6F1cC6gOpQXA lAIBYS25pICcCAU1OBNtTgQC0oJFVySWONpc94YOZW8Yt5Kph0WboO1ABJNKcVUTb6DdC3s4+q3J z3Yfcom672DEbe2x1YOes+x7o3BzTRytQ2svbk2vNTypkHvxclFPDizQ3D3TSl7zieHJRnwZuGKL ebrsL8yMCORVvYWrLmM1HqC5d1uLq1Q6lmMWsMTJ7hYfuPaPUMiqd9lfQuwY4jhTJbqay0SOaRxW v2DaLS7tQZGNeThiFq93oS4m36TW3jQ8chvb6A6TUYZFS7SPd9zkEdnC+U1oQASF71B2ptpoX27C BzCv9v2jb7VpENuxlc6BYe9X3Y4mVsF9+R5L2x/jPfLgifc3C2hdQ6B76fUF6ztGwbdsdv0bKMDm 84uJPiVaMY1oAaKAZIdkqty/cnXU/kWbdm3bwijMdz7ZNuNnptzqlgq9rPipifuWAY4yR6gCC0lj 2ng5poQvUdy3GDareW4moX0pGziXHJeYm6Mkks7xTqOLi3xJqu12XaXdzCakqRXpl1OJ3rdW9vcg 4PU364rkJJwSNS51WnJcrVL1i5ak4zi0a2r8LsVKDTBxqkE4JTk2Sos1UlOEpl+acJTTisAQUgpR KQUAlcXSuIAVbJ89/mrJVsnz3+aAkR5IRHkhASkIQgBCEIBJ9wS0g+4JaA6F1cC6gFBLCQ3NOcMF lJtpLiG0lVi2pYxyUQ3jY3ta5p0k018KpFzuD7SRrGirHK3Ht990dKJ8WVZb2wqpOrWSXEn62txc aJqTcLeMUFXu8FElLnt6nAqN0X5njiF0LfaVFKU3XwyKM+5yddC0+I/PukxBETA0c1WGZ9zJpe6r jipZjwIKrmAtvQAaBWY7eFumlUqQq/O6papPBVFT2/DioDmOZ6gKrRSW+phfxooltbtlY8PFaLeV rE1tXqKrGNtuYxJRw0l3EZFbDt9odcuhObvuKw9zZy28lYR6CcWcPoVntG7SW0gdFIY3tpRr1yt7 2z3qqD0z6+lnV2vcXYo6e5b409SPSrvt5rtLqeJU3aNufZuAZ7VVWPfUjoRHeW7ZaYa2EA/bVXVp 3Xs5p1Kxk8wT9wXFu9o3sc4akuKOxZ7vs5KrnpfJmkhB0jBSowarPv7v2SJtRKXeAafwUC4/yDbs wsrYyO+JxAH1Gijt9r3s/TafxNrnddnHO4jcBhA1EUAxqVSb53Ptu0R0aRcXJHpiZjQ/zLC7j3Xv e41Bn6ELv+OI0w5ZlU1BGHSNq4nFzjxK7Gy/89KqnuZYLHSvtOLvf/QPGG3jnhqf2Ercdxu91uTd XTyST8v8oHIJktBFW8M1Gg13ElT7ealTuZFGWMGJXpbdqNqKjbWlLgjzV67O7Jyk6tkN8IJJyTVu 97ml1agGgK5ePfFASTXUKCnNOwQsgtWaj6nYkLMoQueScVJM3hKduOqLaYrVUYrhSHOa3EnDmnmQ vLQ4jArm3u0W5NuzLQ+TyOhY7rciqXY6kuPEYcmypboGEENqHeKYkhkZiRguTf2O4tPGDfVHSsb6 xdVVNLoxgpBSi7HEUPiklVONHgy5hSqElcXSuIYBVsnz3+aslWyfPf5oCRHkhEeSEBKQhCAEIQgE n3BLSD7gloDoXQuBdyx5YrKVcBhm+AoOa3F2SGylkrCW6ojg6mdEmxZ/cnStaRVgIASrQvjmdazU 01z4rvbLZRhGM5qsn9Dh77dznOUIPyx4cxkRNE80b6ujcasqmd8i6cdu8ZkgKbLF05S0mo4KDvh6 n7RgObgFfkkouudStaxuR8C0bb/oMacKCpB4oMAYypx5fgppYBGAc25JiYAxkf6qpl6UVm3qkuFS umhoC4ZKheaXjSea1T46w18MVmNwboma8YUcMVDeyTLW1pVx5o0ojJgGGBChRQdORw/KSra2Gu1j fwICiyxfq1rgt3kivipSjXiNPtIpW+qtSoUlmyJwbPGHg/mAxVtCKtx5px8LZG4jyWHBSxobRnKH F4laywjqDbyPYRjQ1ITxhu249UHzH/ynmVhNHZJdvWeUkYxj70osjLuOlXiNxwXDh6pAn2WwzkcX J92lgOCQx2s14LdJciPU+DFiNooAExPIXSC3j4+6mSfneIoy8/QkbXbPmebp2FcaHks14GrWFSbD biCFppQlNOaNVXZKTPI0nSDkodzL0oXOWTUq5ibm+bE32R+ohSL17at+FqTaxFrHTOHqf9ygbhMY 2uNeGCilNxqydR1UjyJFgHX95objFHmPFX0tBSNn5cCq3t2EW9i66d7nCtfE4KUXuYwjOR+AW0HW KbzZpcVZOK4YDDpJJnytt84zQHxrinS/9u1rJT1JXY+AquwtbatL350NSOKiguklMr8NXtbyCym6 8zVpUwwoLkgjujqPofz4KvkY+F3Tk93PwVsBQV4c1yeFl5E5zR+owYUXP3/bo3oO7aSjNYtLiXdl v52pqN11g8MeBTlcXSCCWnAjMLi86002nmj0KxSadU8QVbJ89/mrIZqtk+e/zWDJIjyQiPJCAlIQ hACEIQCT7glpB9wS0B0Jq7m6cAA9zjT6E6FBu5epMIx+QVIVnaW9d6NckV91NxtOjo2MbTfGy3UR PNI5cK+K0t/GNX7mMAUpWn3rIblbOkjEsVRI31CngtDse6RbjZiOQ1lhGmQHiF6HbTcZO3LCuKON ubacFdjjTCS+0lSsElJOYVNuTS6exaMxJ/Aq+aygew8Paqa4aXbtaR8BUgfQVJeWC8URbd+Z/lf8 DQkiSpyDuCbuWgRBwHCh80i1mEsskeTmGhCduyI2FuYKmUk44FdrzDAH6I8QqDeYAInPp5eavme0 Dgou4W4ktZMK4FRT80Wiay9Mk+pK2dxm29ngKJcsRIoMwmO3Xk2QZTIkfapsmDiswdYo0uqlyXiV 0Exbd9J+QqAFbRxtfDhmCqTdgYXx3TMCCAaK7snNkiaW4ktqStqqukXKuCkio3WXoMrxyUvaYC2D qE5ip+lVvcDqyRQjMvFfrV2P0LJgb8I+5arGT6BqlqPOTGJ6uc1rOJx8k61mkUUazf1pC/MDBSp3 dNhdyFVtqSMaeBBvHOnmjs2HM1ceSvGsFtbhjc6Yql2aN1xcSXLsiaA+Ct7qSr9IyWsc68xNY6eR HOJqUxM0SEMPt4qQAugCuSkqapES6cIYSG8qBZrci8ljeL3K/uay3ggbiBiVUbmwSbpbw5BpBNFD eWHjgT2PVXkqmjYwW9jbxZMDayrkBEz+ufblGOY5pq66k08Nqw0aADL4BSpnRxNHTAAA0s+hSLIi oMXzxIRDESKZlIIjtoTM8181yPHVJL6RmSmRGdykBGFpEcT8RWxhUrjkhyAT3514xw8OZViGtjIj ZhzomprmK2aGsAyoGjNFsyVxMjxSvA5raKweNCG55nyRX7pCI3iYD3YOA5qCr6+iEls8nNoqFQg1 AK8z3Syre4biqKSr8eJ6LtV1y26jJ1cXT4cAGarZPnv81ZBVsnz3+a550SRHkhEeSEBKQhCAEIQg En3BKqkuzRVAL1BoLjkFVv8AXKZcqlSryXpW738aUH0pdtatu9sjmjPrYPUF1O1WtTnJ+COd3Gel QXCuIMhbK1rgMKZKnmE2y37b2Efok/qNGRCurN4BEbzStaKTdWbJYHMeKgrqytykvLnE51u8oTpP GMsGuhMguIr23ZcwmrXjgqt9BvtvxDWEjzxVbtdxJs1+bKf+mmPorwPNWD/R3CwPwaYiYzwOay7u qC1ZppMk9jTck4vyuLcSRskpl3S9BNcf4qz3A0pGMK4lUPbTj/cL1zcQXUr9Kut0dUtrmMFJbdYP xZWvR03Uvwr+AhuDAlyCtu/xFCm2uGkKQ0B0TgeRWy4muRF7e+U8cnFWMjavKg7I3pCQHCrlYSCk lUt+lGLjrJsrt0tzJaSE4loqFJ7cd1LNvMD+CduWCSFzTkQfuUDteR0Ylt3ZsJwR+uvQzStqXR1K 7dCZN5ihOPqB+oq93WUW1lQDHTgs9cu6ncjAcgVZ9zzAQxxsNdVAtYyprfUklCqtR5xqO7Oz/wBT qnNxqUzulw5rOmDi/AKwtI2RWMZycGioVLcvE24QxjEVqUeS6mi9TfIv9qh/aWgrnRJfJqk8U+55 it26fzZKMMSCfdyW6wwI3m2OgYLvtq85JQLQBUVUe8cOi4AU8FsYWZH2xnUupbgioBVHPJ1N/FeB wWm2pjmW7i4UwKykuG914asVFcyj+Ym27rKfSJp7uRsc7GNFJJQPVxTVzMKhmVPcUxcSF27yOcKN iYNI5KHLcPu5nMjwr86TgByW1cTGht9OZJkn/d/psOi2YfXJ8R5Ka2UW0Ie0U4RQDM+JVfCQGtaG 0jYQIohm4/EVJjbI241vOqXIuGTWngt4kc0siRb2by4XlydUubWclPLi7NRgQcGnH4kuWdsTSR6p MtAzKkRC226C5W6mFpyIWbpQubwaaLSxAuaJJD6jkOSz90GsuJA3Kq43eoLTbn4pnU7PN67sPBoa CrZPnv8ANWQVbJ89/muCd4kR5IRHkhASkIQgBCEIBD0nUlP5pv7gsxVWCLuLtVsWDMqN2/uZsbk2 lzjDLkTlU5KSQLgSvb+X0qFNYCZpDRR4GB8V3NrblbtQlFY5s5e4uwuTuWp5ZJ8jR3dhrrLbmgpq p+CXt92ycdCTCRuGkqk2jd5rYiw3Akf9Up+wHwVtc2TZ6SQHRPnraaA+VF0YSUlqWD4ooSs6Hpni vuyG9+20XFqXN+dHi0hQ7S8ZdWttLL/UW5LCeOnSc/rVrZzSOAhuRRwFMeKzG8wv2q7d06iG4xby /wBYKK+9K91KiyfjwJbFZ1st4rGL6cS57XA13MnOQ/wVrupGsY54qm7ZqYXSfG4kqy3N5DmhbWnS ym826kW4Vb3gqfIVGdTQpbDRhHMUVfbHBTWFSJkdOZ2xb03ObnU1U6YjDmo0DQHE8VIcA7Ny2jgj SSxYmTCFxPAKv2YBl0+UD5oVhP8A07x/KVB2QF8THDgS36lh+tBV0SRSyf8A6kA5YqTvr+pudtbg 4Eg0+pR5vT3UAeRK7cET9xxg4ho/BQN01JcZFvT/AI3yt1NDcydGClMKDLyVJaAybm0n8uKttwcd LWjI4Ktsm0vi/iMFNLgQQWDZd3OsBoZwOK4CC6vFIe4l5xSm4YrYiaHgo97iwUwpmnwUxc4tWxrH Mk2rtNo40WOmI/vFDzqFsIqNsnCmIx+hYt0mreRhXHJR3co/mJ9svNc8Cx3i5fDMIox+vO0AnkFF ikMYFnFia1lPxO5+SXvs7YL0uA1zPYGxtHDFN2bXW7Q0DVcSCrify+CjUnraJ0v7SfMsmFzX6Gnq TH3P4NHIKfCzSMMziVXQaYQXOcBzcTSqdbdR6g1jjIT+Vv4qxEpyTliiwM7/AJUAq4Zu4BLtIAyT qH9SU+57svoURkhaKTACvtjZn9NFYwMdg6T0/CwKWJWk6OhIIoDjgs3eilw88yr+5kEcePHBUN78 4eIXL7zFfp68mjo9nb/UtfhYwFWv/qH+asgq1/8AUP8ANebPRkmPJCI8kICUhCEAIQhAJf7SVEnk 0RPd4KW/2lVl84lgjGb3AUUtiGu7GPUjuz0wb4kjbWltmxhGL/USc8VIfbH3NGWOCBH0A2LiwUop UU0ZZ6vJeotRSio1WCPO3JSc5SSeLIjrC23CMhwo8ZHkosL77Z5ejch0tocpcSWhW7WsDqxmhPBP gdQaXgEeOK2dpeqLo1yMx3EorRNaovg80NVt76FstvJU8Dx+lUvcpEtkOqKTR4+HJWFxtj4j+525 xa8Yvj4KLuFd02+aJ7endQNqWnCuK0vJytTTWNH4ElhpXYSg6x1Y1zQnt5/T26Mnin7mXqSnGvgo e1PEe2RN/MBiFzqB0tVFB0twXRG12Nbk6c2WMbiNNOCsI3ZHmqyJwwU1j8RyU8ciJqhPY4BOA1UU OwT0ZJ8iFsiOQ7IawPHgVD7frSRvJxwUmR1IneSi7DUPmrxJKP1IwvTIo7w6e6ASaZpNiTJ3G+py Bom91fo7jY85E/xTdjKGdwvceNaKtJrXT8R0Ip+1/wDI0251BjBwNRgo8ApPq4c1J3QgxMkPNRon AFWJPFFKHpJ1amvNPAhQmvc5wAyB/gpAcDiso1lEfBCbnxauBwS3EacVuiNYMdZIP272cdKwcZJ3 0Dhqx8lsTKGxPOoA0NSeSy+wbHu2/wC+Snbo6sjNJJT7RlxVXe3bdqMZXJaUniy726zO7O4oKrao hW5Hq75IY2mSVtGQRtFcea22wdi3F4G3V+8x9QVLW4kV4HJajYOyLPaGuurgCS7lxfM/+Ctp71tn ptbRhkecAG4/WvL7zvM3OUdt5U36uLPUbPs9rQpbjztLCOSR3bex+3IGNjmhdc6sHOeSKA+FSvN+ 4tusNr364stpOqBpBac9JPubXHJejSnd52/t3HoRSYOczFwB5VTFt2Ntjpaz6pAakvJOok/St+29 2Vq45bmU5V5EPc+0u5bUdsoxpzMBbWzGfqHF3EHNSQfUF6Dddg7S6wlbA90dw0F8bq8ueK8zfMYX SMdiY3FoI40XqtpvrG6r7NfLmmeS3myvbZr3qNvihrcJS6RsYORyUfcoyGxSNGIaAUlofcT6znXi pO4gmHAe0Yp3C17m2mmslX5GNldVvcWurp8ypBqaqtf/AFD/ADVg11QCFXv/AKhx5leRPVkqPJCI 8kICUhCEAIQhAJfUjS0Vc7ABWVt2uJZ4HXk4aR63MZw8DUKrfJ0h1R7mYgpdjvW9XeFtYOkqaCR2 DfPEhYlO9COu1g+L5E1i1ZnL+6tVOBvxsXbsIEsoEjnZlxKn7XtW1OnrFDGWkUbmVR2Pa+73VoX3 90GSSYtibWjfvRZ9v917dOXRytdA0AxkZmn0qhPdbiTaldb+J04bbbxfltJfA0W79k215+vaUgmH LI+eaxG47VuG0S9O9i0sPtmHsW4s9/3G1ZTcrZ1AaOeMc/rV1cXNjeQtbO1r43t9rhmCr2y71f27 UZNzhxT+wob7stjcVlFKE+DX2nksbwDqYQ5V+72odG++iqJGAmQDiMqL0O97Q264c6Swk/bvdiG/ kH2LN7ls95tzJY7lmuOQEGQe1el23ddpuouEXpm16Wecvdr3e0mrko6oJ4yWVDA7fKP2BfzJCLd2 o18VFaDC2e3yMbzh4JW3yYuafoTUsOmHyN5wWMlxx+ZcxPGAUtnmq6N1SFYMxViLwKcliSY5DWim sq2PXSqrGktKsoX9SHTyUkSKaG5HYOx4LmznS+TxTM50k40UnaqAPPOqz94PCDMt3CDHuMc2GDx9 6gOl6G8wzcH0+2ite4oddXDg7+KotyJabeYflA+yipXvLJvqmdHbPVbjHmmjf3sYnsRI0+0A/Yqy OQPDXDirLYpmX23GF51FzaVKp5GutLh8DsmnBWnkpLiijGPmlB5pk+OUUAKea8taSoVs8Pe6uQGC kSnSPBZgYngSYpC+uGSJ30FKqLBONdKpF/NoaQCpG0kRuLckuZVbpuJjY9taVBC1P+Nr87PaTSTn SyX1kFecXz3XV3HACTrdRbbboHXT47GD5bGgOP8ABeY71fc17aeWZ6nstj2nqzqj1bab6TuGEyNO iCtGNHJXtpt9taipAJHErK9uN/tcItw+rqelgVvM3crtvThkbE4/nNa/YvOvPDA77q1i/kTtyvre 2t3zTObExoLtROOCwx/yI4ydPb7Oe6oSA9oFDT6QtCzs63ncLjdZ5L6QflkPoHkKBWNvYWdv+myJ kTG0DQAp4+xCkrmqUuS9JA1elVQpGPXMxV13J3fu0b7a3s3W0bhRzh7iKZYkrMzR3EExiuozHIPc 12ZrjVe3RXlhbMAfLG0j8ziAvNu/t627dd1gjsQHvhbSWZuRNcl6Xse8j7isW7KjGSq5JcjzHfdm 9Dvzu6pRwUTOW8bdVRwxT0zdbXA5OBUdhLXYGilZtXpZx1xlF5NNHl09M4TX3XUzlNPpPBQX/Ocr G5Gm4e0c1XP+cV4i9HTcnHlJo9palqtxlzSZJjyQiPJC0NyUhCEAIQhAEbWOmY2QAsJ9QOVFp590 hhbHAwabeOlGNFGhZKZzmQvkaKuaKtaMSSu7JtG+b7My3v5zawO9VMWuI+sKG9blNVcqRWdS3tLm nyqNW3Q9CsO77EBsbnhzxhpBFQrRndlkwgSOLQ7IkHj4rKs/x5sMB1xTTtn4v1nEqzHZ9vJEI3Xb 3MIodRJP3qhONtPyybOonOlZQoamPc4J2B8bmvY7CoNc1D1skv8AplvoHFVVp27Hs7D+2uXvaPyu JI+pXFlbCRomccVo2mZRYdAUBZgmZo4rqN9vdjVG4UIKfDXj25Lj2td780jOUGpRdGsaoSjGacZK qapRnj3d/Y9/t00+4bYP3FlIalgxe3z5/UsTauc1w4EYOBwIPkvpB0OPpd6TgQcqLEdzf4+tdymN 7tdLa6PuA9jv/EUXY2feJYQv5cJfzOTu+1KkpWF/pPPInt1ChVmxxoCFX3e0bptNx0r+Et049Qey g/mySm7tYxjS6T1eArRejs7i3KNVJUPOXrFyMqOLqW4dqzzClWbmuDmOblxVXb31lKB052knOpA+ 9TbaQNkIc4aT7SMaq1CSeKZVnCSeKoNbg4NoTkFP2j1Qlwyoqzd/SyvM0U7Znk2uGHpC2T89DSX+ OpXb3G4sfQZqgvYNdiCRi1ajcWamuqqaWB0luWjIYqC9GrlzZY21zSo8kx7s+9DQYxg5ufkrjuC2 0ltyBQ0r9Kxu0Smz3INJo1xxW+u2G7sRQ6tIxKzadbbjxWA3SUL6kspY/Mz1tLpeGg55qzcSQVRs d07h0Xjmrhr9URPJbwyZHdWK6lbLKYpdQKTe3WqHXXADFNXbwHElVN7damdJub8AoLt3SpV5Fi1Z U3FrOo7tFvJPLJftbhGaMHNy3m2vi2qwM5b+u7jxJKb7S2ZrNrF1LQhpwZ4nigWz9w3JttHkw1pw qvI7m7ruy+p6za2fbhHm0XXbM98N0N5ckua4ULDXAL0U7pt8EZke8RtArVxoqHb7e2sYdd1RjwKH LEqs7i2y77it2Wdi3oWziHTXDjQuGYDRgqUaSuJNqKbxfIty8sHJJtrgW9335s8IcyN5ml/KyME1 PmAVmZJe7+4rjqWQdaWpNA3J1DzxCudl7R27Yo4n6BPKfc9wrQ+RWvjuNu2+A3E8rYwQKjLLkFdj LbxlptW3elzljH4Iq3I3nBzuXPaXKGD+LPMN87V3jbLWO93W4fcwSHT7q0J55qlb0mDSwUC13ePd rN5a3atvBFsxwc+V4zcMqV81kxEAcTVey7TGS28XO3GDeVFTA8R3ecXuGoXHcVMauuJ1jgclIiPB NBoGSdiBquosjlNlPubSy7qPzAKpef1irreGFs7H8wqV3zSV43uEdG6uLh/M9b2+evbW38PkSY8k IjyQqhcJSEIQAhCEB1jg2eNxxAOIVxFu7YbwzvIww5U8lSOHFR5QTSmKiu2tfEsWNx7UWqVdamxH elkH6CC6mGX8V2bv6ytqdRh0HAUxWDkYQ7JNObXBwr5qJbSK4k77hJ5o9Isu77XcC6ONwDSMA7Ar TbfuFsIg19xGzwLgvDw3gCW//XD7l2knCV5/83fisPaJvB0MruH4D6AF5YnH91H/ALwuvvtuoB+6 i/3hfP8ASX/tk/3u/FAEtMZH/wC934rH6Nf1D9wda6T3v9zt7vZdR/7wm59wsbWMyyXMZYBUkPBP 1Lwikoylf/vd+KKSnAyvI5FxP3la/oYr7w/cXjSBP7372ud+uJNutWdOwidTUG+pxHHVnRYsRO5F aTpN+EfUudNvwj6l0tvdVmCglgjn3XK7JzfEoAx7Rg015gLV9rsldGf3DqNJrHrOI+tQ9A+EfUjQ 4e0keRordjf+3PW4t9Ctf27uQcE6N8S23pzgwt1B2nEkYqVs1wwWxBeGkDjxWf0uycSedSuhrsgS PJTLur1uWh49St+21t6HP40NBdOjkZUvbj4qJbljGvY5zSCDQKr0u4uJ+lAaQ6uKT7rq/wBv6hdt pRKZX38L4rjrRjI8FtNlu2S2DmPeKltaErNFtc8fNGlw9pLfLBYh3TQ6q3gyW9sVchGLnRx40HL2 kVzrZ6iTjRWEUzTE3HSCMlVdM8TVdDXcyn7s6+ihq+3ao01rBZje5PAqWku8lUWYfPetJaT0/UAc iQrzRzFVwMANWgA8wFXv7x3lRLSWNvYVpKr1UNtt11E61jsoZGwvkFZCXYBaHZLHb7N/XdcxF/E6 gvKNDvicPIldpIB6ZJP9x/FcuW2q260qdWG+SSThWh6D3PvLLu7YLaUdK3cNWl2Ditrt29bZLZwl 9xEPSPTUYLwcNk4uJrniUoBwye8eTj+K1/S9Ub/uH4D2Pe+9rCxY6Czc2e4OAdgWt+9YS63mW6Ou 5uepUk0Jo0f+OSyxa74ifGqNB8V0tlesbSjVnXP+p/Ycnfxvbp091wh/SvtNJFewk0Lm080+24hr R7w0nLFZTQfFd6bjiXH6yup++y/4vqcp9kTyu/Q1/Vg/7G/Wno5oRSkjfrCxWh3xH6yulrz+Z31l P32X/F9TX9j/AO36Gm3p0bmRvZI1zq0wIKzzvmFNBrxm4nzKcaDXFczdbj37srummpHS2u2di1G1 Wul1qSo8kLsYwQqxaJKEIQAhCEBwioTZCEIBl8ZcahIMJ4oQgOdArnRKEIA6JR0ShCAOiUdEoQgD olHRKEIA6JR0ShCAOiUdEoQgDolHRKEIA6JR0ShCAOiV3ouQhAHRcjolCEAdEo6LkIWGA6JR0ShC AOi5HSIQhZAdI8kdI8kIRAOkUdIoQsg6IilCMoQtQPtahCFkH//Z "></image>
+  </g>
+</svg>

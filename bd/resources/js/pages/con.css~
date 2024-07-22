@@ -1,0 +1,98 @@
+body.mains {
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           height: 100vh;
+           background-image: url('en.webp');
+           background-size: cover;
+           background-repeat: no-repeat;
+           background-position: center;
+           margin: 0;
+           padding: 0;
+           font-family: Arial, sans-serif;
+       }
+
+    header {
+        width: 98.5%;
+        padding: 15px;
+        background-color: honeydew;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    header h1 {
+        margin: 0;
+    }
+
+    header nav ul {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        gap: 10px;
+    }
+
+    header nav ul li {
+        margin: 0;
+    }
+
+    header nav ul li a {
+        text-decoration: none;
+        color: #007BFF;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: rgba(0, 123, 255, 0.1);
+    }
+
+    header nav ul li a:hover {
+        background-color: #0056b3;
+        color: #fff;
+    }
+
+
+    h2 {
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    label {
+        margin-bottom: 10px;
+        color: #555;
+    }
+
+    input[type="text"],
+    input[type="password"],
+    input[type="email"] {
+        padding: 10px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        width: 100%;
+        display: flex;
+        box-sizing: border-box;
+    }
+
+    button {
+        padding: 10px 20px;
+        background-color: #007BFF;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    button:hover {
+        background-color: #0056b3;
+    }
+    ~
