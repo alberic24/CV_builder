@@ -77,7 +77,7 @@ improve user experience.
 
 
 
-*** Example for example for the registration page
+*** Example for the registration page
 ![Exemple d'image](assets/f.png)
 
 
