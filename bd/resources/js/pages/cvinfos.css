@@ -1,88 +1,13 @@
 body {
-    
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
     font-family: 'Open Sans', sans-serif;
     color: #444;
-    margin: 0px;
+    margin: 0;
     height: 100vh;
-    padding: 0px;
-    margin: 0px;
-}
-
-.templates-container {
-    max-width: 1200px;
-    margin: 80px auto;
-    padding: 20px;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-}
-
-.templates-container h2 {
-    grid-column: 1 / -1;
-    font-size: 36px;
-    color: #333;
-    text-align: center;
-    margin-bottom: 30px;
-}
-
-.template {
-    background-color: #fff;
-    border-radius: 10px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s, box-shadow 0.3s;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    padding: 10px;
-    box-sizing: border-box;
-}
-
-.template:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
-}
-
-.template h3 {
-    font-size: 24px;
-    color: #333;
-    margin-bottom: 15px;
-}
-
-.template p {
-    color: #666;
-    line-height: 1.6;
-    flex-grow: 1;
-}
-
-.template img {
-    width: 100%;
-    height: auto;
-    border-radius: 10px;
-    margin-bottom: 15px;
-}
-
-.button {
-    display: block;
-    width: 100%;
-    padding: 12px 0;
-    font-size: 18px;
-    color: #fff;
-    background-color: #28a745;
-    border: none;
-    border-radius: 8px;
-    text-align: center;
-    text-decoration: none;
-    transition: background-color 0.3s;
-    margin-top: 10px;
-}
-
-.button:hover {
-    background-color: #218838;
+    padding: 0;
 }
 
 .cv-container {
@@ -149,7 +74,6 @@ body {
     border: none;
     cursor: pointer;
     text-align: center;
-    align-items: center;
     display: inline-block;
     color: #fff;
     border-radius: 8px;
@@ -182,7 +106,4 @@ body {
 
 .legal-info p {
     margin-bottom: 0;
-    font-size: 14px;
-    text-align: center;
-    color: #666;
 }

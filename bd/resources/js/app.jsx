@@ -7,6 +7,7 @@ import RegisterForm from './pages/RegisterForm';
 import Login from './pages/Login';
 import CVInfos from './pages/CVInfos';
 import CVTemplates from './pages/CVTemplates';
+import axios from './axiosConfig';
 
 
 ReactDOM.createRoot(document.getElementById('app')).render(     

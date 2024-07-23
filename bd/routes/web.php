@@ -1,10 +1,13 @@
 <?php
 
 use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\LoginController;
 use Illuminate\Support\Facades\Route;
 
 // Route pour le contrôleur d'inscription (POST)
 Route::post('/register', [RegisterController::class, 'register']);
+
+Route::post('/login', [LoginController::class, 'login']);
 
 // Route pour la page d'accueil de Laravel
 Route::get('/', function () {

@@ -5,7 +5,7 @@ import './cvinfos.css';
 function CVInfos() {
     return (
         <div className="cv-container">
-            <h2> Choose your template and Create your professional CV </h2>
+            <h2>Choose your template and Create your professional CV</h2>
             <div className="cv-section">
                 <h3>Free resume templates and trends in 2024</h3>
                 <p>Several resume templates are available to help you land your dream job. Choose the one you like and personalize it.</p>
@@ -23,19 +23,18 @@ function CVInfos() {
 
             <div className="cv-section">
                 <h3>Get Started Today</h3>
-                <p>Choose your template and creating your CV with CV Builder today and take the next step in your career!</p>
+                <p>Choose your template and create your CV with CV Builder today and take the next step in your career!</p>
                 <Link to="/cv-templates">
-                    <button className="btn-primary">Choose</button>
+                    <button className="btn-primary">start</button>
                 </Link>
             </div>
 
             <div className="contact-info">
                 <h3>Contact Information</h3>
                 <p>Phone: +22951378860</p>
-                <f>Email: albericabotchi24@gmail.com</f>
-                <d>Address: 123 Fidjrosse, City, Country</d>
+                <p>Email: albericabotchi24@gmail.com</p>
+                <p>Address: 123 Fidjrosse, City, Country</p>
             </div>
-
         </div>
     );
 }

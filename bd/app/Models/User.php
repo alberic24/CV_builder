@@ -15,6 +15,7 @@ class User extends Authenticatable
         'email',
         'password',
         'profession',
+        'api_token', // Ajoutez ce champ
     ];
 
     protected $hidden = [
@@ -26,4 +27,5 @@ class User extends Authenticatable
         'email_verified_at' => 'datetime',
     ];
 }
+
 

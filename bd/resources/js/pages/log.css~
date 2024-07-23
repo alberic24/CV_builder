@@ -1,0 +1,70 @@
+/* Style de base pour le corps */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Conteneur principal pour le formulaire de connexion */
+.login-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+}
+
+/* En-tête du formulaire de connexion */
+.login-container h2 {
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Style des champs de saisie */
+.login-container input[type="email"],
+.login-container input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+/* Style du bouton de soumission */
+.login-container button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.login-container button:hover {
+    background-color: #0056b3;
+}
+
+/* Style des messages d'erreur */
+.login-container .error {
+    color: red;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+/* Style des labels */
+.login-container label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    color: #555;
+}
