@@ -73,4 +73,14 @@ Set up migrations for database structure.
 Error handling and feedback messages to improve
 improve user experience.
 
+
+
+
+
+*** Example for example for the registration page
 ![Exemple d'image](assets/f.png)
+
+
+*** Project overview
+
+![Exemple d'image](assets/g.png)
