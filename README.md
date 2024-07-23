@@ -18,5 +18,5 @@ Cv Builder is a comprehensive application designed for creating and managing res
 
 To test, split the terminal in two and run 
 
-                                npm run dev
-                             php artisan serve
+                                                    npm run dev
+                                                 php artisan serve
