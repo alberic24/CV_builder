@@ -73,3 +73,4 @@ Set up migrations for database structure.
 Error handling and feedback messages to improve
 improve user experience.
 
+![Exemple d'image](assets/f.png)
