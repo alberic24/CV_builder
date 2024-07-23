@@ -6,17 +6,17 @@ Cv Builder is a comprehensive application designed for creating and managing res
 ------------------------Using xampp for linux databases----------------------
 
 
-             *** Example for the registration page ***
+*** Example for the registration page ***
 
 ![Exemple d'image](assets/f.png)
 
 
-                         *** Project overview ***
+*** Project overview ***
 
 ![Exemple d'image](assets/g.png)
 
 
 To test, split the terminal in two and run 
 
-* npm run dev
-* php artisan serve
+                          npm run dev
+                       php artisan serve
