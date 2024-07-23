@@ -52,17 +52,24 @@ Migration to Add api_token column:
 Added api_token column to users table to manage authentication tokens.
 Fixed errors linked to missing columns (e.g. remember_token).
 
-Étapes Clés :
-Création et Configuration des Composants React :
+Key steps :
+Creating and configuring React components:
 
-Mise en place des formulaires et des états pour gérer les entrées utilisateur.
-Configuration de la navigation et des requêtes HTTP.
-Configuration d'Axios pour la Sécurité :
+Set up forms and reports to manage user input.
+ing user input.
+Configure HT navigation and queries.
+PRACTICAL WORK.
+Configuring Axios for security:
 
-Inclusion des tokens CSRF pour sécuriser les requêtes.
-Gestion des cookies pour les sessions.
-Implémentation du Backend Laravel :
+Inclusion of CSRF tokens to secure requests.
+are.
+Session cookie management.
+Laravel backend implementation:
 
-Création des routes et des contrôleurs pour la gestion des utilisateurs.
-Mise en place des migrations pour la structure de la base de données.
-Gestion des erreurs et des messages de retour pour améliorer l'expérience utilisateur.
+Creation of routes and controllers for user geometry.
+user management.
+Set up migrations for database structure.
+ database structure.
+Error handling and feedback messages to improve
+improve user experience.
+
