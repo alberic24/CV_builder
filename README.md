@@ -75,6 +75,7 @@ Error handling and feedback messages to improve
 improve user experience.
 
 
+-----------------------------Using xampp for linux databases----------------------------
 
 
 
