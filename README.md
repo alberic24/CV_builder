@@ -8,23 +8,6 @@ Use of React to create the application components.
 Use of react-router-dom for navigation between the application's various pages.
 Use of Axios to make HTTP requests to the Laravel backend.
 
-Key components :
-
-*Login.jsx:
-
-Login form with status management for email, password, errors and loading.
-Sends login information via POST request to endpoint /login.
-Management of responses and redirection to the CVInfos page if the connection is successful.
-
-*RegisterForm.jsx :
-
-Registration form for new users.
-
-*Header.jsx :
-
-Application header with navigation links.
-CVInfos.jsx and CVTemplates.jsx:
-Pages for managing CV information and selecting CV templates.
 Axios configuration :
 
 Axios configuration to include CSRF token in request headers.
@@ -86,3 +69,9 @@ improve user experience.
 *** Project overview
 
 ![Exemple d'image](assets/g.png)
+
+
+To test, split the terminal in two and run 
+
+* npm run dev
+* php artisan serve
