@@ -1,0 +1,81 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding-top: 60px; /* Ajuster en fonction de la hauteur du header */
+    background: linear-gradient(to bottom, #87CEFA, #4682B4); /* Dégradé de bleu clair à bleu foncé */
+}
+
+.home-image-section {
+    position: relative;
+    text-align: center;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 1200px; /* Limiter la largeur pour une meilleure présentation */
+}
+
+.home-image-section::before {
+    content: url('./o.jpg'); /* Remplacez par le chemin réel de l'image */
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    border-radius: 15px; /* Ajouter des bordures arrondies */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajouter une ombre */
+}
+
+.home-content {
+    padding: 20px;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.9); /* Fond légèrement transparent */
+    border-radius: 15px; /* Ajouter des bordures arrondies */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajouter une ombre */
+    display: inline-block;
+    width: 80%;
+    max-width: 1200px; /* Limiter la largeur pour une meilleure présentation */
+    margin: 20px auto;
+}
+
+.home-content h2 {
+    color: #003366; /* Couleur du texte en bleu foncé */
+    border-bottom: 2px solid #003366; /* Ligne sous les titres */
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.home-content ul, .home-content ol {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.home-content ol {
+    list-style-type: decimal; /* Numérotation des étapes */
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.home-content li {
+    margin-bottom: 10px;
+}
+
+.contact-info {
+    padding: 20px;
+    background-color: #ffffff; /* Fond blanc */
+    border-radius: 15px; /* Ajouter des bordures arrondies */
+    margin-top: 20px;
+    width: 80%;
+    max-width: 1200px; /* Limiter la largeur pour une meilleure présentation */
+    margin: 20px auto;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ajouter une ombre */
+}
+
+.contact-info h3 {
+    color: #003366; /* Couleur du texte en bleu foncé */
+    margin-bottom: 15px;
+}
+
+.contact-info p {
+    margin: 10px 0;
+    line-height: 1.6; /* Espacement entre les lignes */
+}
