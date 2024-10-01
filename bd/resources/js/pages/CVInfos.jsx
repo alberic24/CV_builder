@@ -39,4 +39,4 @@ function CVInfos() {
     );
 }
 
-export default CVInfos;
+export default CVInfos

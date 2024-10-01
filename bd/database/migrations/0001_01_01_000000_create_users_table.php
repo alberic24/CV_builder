@@ -18,7 +18,7 @@ class CreateUsersTable extends Migration
             $table->string('username')->unique(); // Nom d'utilisateur unique
             $table->string('email')->unique(); // Adresse email unique
             $table->string('password'); // Mot de passe crypté
-            $table->string('profession')->nullable(); // Profession (optionnelle)
+            $table->string('profession')->nullable();
             $table->timestamps(); // Horodatages pour la création et la mise à jour
         });
     }

@@ -1,0 +1,70 @@
+/* cvpreview.css */
+
+.cv-preview {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.cv-preview-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cv-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.cv-preview h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #333;
+}
+
+.cv-preview p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+.cv-preview-section {
+    margin-bottom: 20px;
+}
+
+.cv-preview-section h2 {
+    margin: 0;
+    font-size: 20px;
+    color: #444;
+}
+
+.cv-preview-section p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.cv-preview-section ul {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+    list-style-type: none;
+    padding: 0;
+}
+
+.cv-preview-section li {
+    margin-bottom: 5px;
+}
+
+.cv-preview-footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    color: #888;
+}

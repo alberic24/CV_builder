@@ -1,0 +1,108 @@
+/* Conteneur principal du formulaire de CV */
+.fill-cv-container {
+    width: 210mm; /* Largeur d'une page A4 */
+    height: 297mm; /* Hauteur d'une page A4 */
+    margin: 0 auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box; /* Inclure le padding dans la taille totale */
+    overflow: auto; /* Pour gérer les débordements éventuels */
+}
+
+/* Titre principal */
+.fill-cv-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Disposition du formulaire en grille */
+.cv-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Colonnes égales */
+    gap: 20px;
+}
+
+/* Colonnes du formulaire */
+.cv-form-left, .cv-form-right {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Styles des groupes de formulaire */
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    font-size: 16px; /* Augmenter la taille de la police pour les labels */
+    color: #333; /* Couleur des labels */
+}
+
+/* Champs de texte et zones de texte */
+.form-group input,
+.form-group textarea {
+    width: 100%; /* Largeur totale du conteneur */
+    padding: 10px; /* Augmenter le padding pour plus de confort */
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px; /* Taille de la police uniforme */
+    box-sizing: border-box; /* Inclure le padding dans la taille totale */
+}
+
+/* Fixer la hauteur des champs de texte */
+.form-group textarea {
+    min-height: 80px; /* Hauteur minimale pour les zones de texte */
+    resize: vertical; /* Permettre le redimensionnement vertical */
+}
+
+/* Styles des boutons */
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.submit-btn,
+.pdf-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.submit-btn {
+    background-color: #28a745;
+}
+
+.pdf-btn {
+    background-color: #007bff;
+}
+
+/* Styles du bouton PDF */
+.pdf-btn {
+    margin-left: 10px;
+}
+
+/* Conteneur et style pour la photo de profil */
+.photo-preview {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.profile-photo {
+    width: 100px; /* Ajustez selon vos besoins */
+    height: 100px; /* Ajustez selon vos besoins */
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #000; /* Bordure optionnelle */
+}
+

@@ -1,0 +1,54 @@
+import React, { useState } from 'react';
+import { useParams } from 'react-router-dom';
+import CVSection from './CVSection';
+import './fillcv.css';
+
+const FillCV = () => {
+    const { templateId } = useParams();
+    const [cvData, setCvData] = useState({
+        name: '',
+        email: '',
+        phone: '',
+        address: '',
+        summary: '',
+        experience: '',
+        education: '',
+        skills: '',
+        certifications: '',
+        languages: '',
+        // Ajoutez d'autres champs nécessaires pour le CV
+    });
+
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setCvData({ ...cvData, [name]: value });
+    };
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+        // Logique pour sauvegarder les données du CV
+        console.log('CV Data:', cvData);
+    };
+
+    return (
+        <div className="fill-cv-container">
+            <h2>Fill Your CV - Template {templateId}</h2>
+            <form onSubmit={handleSubmit}>
+                <CVSection label="Name" name="name" value={cvData.name} onChange={handleChange} />
+                <CVSection label="Email" name="email" value={cvData.email} onChange={handleChange} />
+                <CVSection label="Phone" name="phone" value={cvData.phone} onChange={handleChange} />
+                <CVSection label="Address" name="address" value={cvData.address} onChange={handleChange} />
+                <CVSection label="Professional Summary" name="summary" value={cvData.summary} onChange={handleChange} isTextarea />
+                <CVSection label="Work Experience" name="experience" value={cvData.experience} onChange={handleChange} isTextarea />
+                <CVSection label="Education" name="education" value={cvData.education} onChange={handleChange} isTextarea />
+                <CVSection label="Skills" name="skills" value={cvData.skills} onChange={handleChange} isTextarea />
+                <CVSection label="Certifications" name="certifications" value={cvData.certifications} onChange={handleChange} isTextarea />
+                <CVSection label="Languages" name="languages" value={cvData.languages} onChange={handleChange} isTextarea />
+                {/* Ajoutez d'autres sections nécessaires */}
+                <button type="submit">Save CV</button>
+            </form>
+        </div>
+    );
+};
+
+export default FillCV;

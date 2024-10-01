@@ -1,0 +1,116 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.fill-cv-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cv-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.cv-form-left,
+.cv-form-right {
+    flex: 1;
+    min-width: 300px;
+}
+
+.cv-form-left {
+    border-right: 1px solid #ddd;
+    padding-right: 20px;
+}
+
+.cv-form-right {
+    padding-left: 20px;
+}
+
+.cv-form-left input,
+.cv-form-left textarea,
+.cv-form-right input,
+.cv-form-right textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.cv-form-left textarea,
+.cv-form-right textarea {
+    resize: vertical;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+input[type="file"] {
+    margin-bottom: 10px;
+}
+
+.buttons-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.pdf-btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.pdf-btn:hover {
+    background-color: #0056b3;
+}
+
+.pdf-btn:focus {
+    outline: none;
+}
+
+input[type="file"] {
+    font-size: 16px;
+}
+
+/* Styles for photo preview */
+img {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Media queries for responsiveness */
+@media (max-width: 768px) {
+    .cv-form {
+        flex-direction: column;
+    }
+
+    .cv-form-left,
+    .cv-form-right {
+        border: none;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+}
