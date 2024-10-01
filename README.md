@@ -4,7 +4,7 @@ Cv Builder is a comprehensive application designed for creating and managing res
 
 ***Using xampp for linux databases***
 
-  The name of my database is : strol and the file save is users.sql
+  The name of my database is : "strol" and the file save is "users.sql"
 
 ***Example for the registration page***
 
