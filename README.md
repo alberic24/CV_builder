@@ -6,20 +6,18 @@ Cv Builder is a comprehensive application designed for creating and managing res
 
   The name of my database is : "strol" and the file save is "users.sql"
 
+***Project overview***
+
+            ***To test, split the terminal in two and run***
+                                  npm run dev
+                               php artisan serve
+
+![Exemple d'image](assets/terminal.png)
+
 ***Example for the registration page***
 
 ![Exemple d'image](assets/f.png)
 
-
-***Project overview***
-
-![Exemple d'image](assets/terminal.png)
-
 ![Exemple d'image](assets/g.png)
-
-***To test, split the terminal in two and run***
-
-                                          npm run dev
-                                       php artisan serve
 
 ![Exemple d'image](assets/i.png)
