@@ -13,6 +13,8 @@ Cv Builder is a comprehensive application designed for creating and managing res
 
 ***Project overview***
 
+![Exemple d'image](assets/terminal.png)
+
 ![Exemple d'image](assets/g.png)
 
 ***To test, split the terminal in two and run***
