@@ -3,7 +3,7 @@ body.mains {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('en.webp');
+  background-image: url('./assets/en.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;

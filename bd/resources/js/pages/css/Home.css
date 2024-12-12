@@ -15,7 +15,7 @@
 }
 
 .home-image-section::before {
-    content: url('./o.jpg'); /* Remplacez par le chemin réel de l'image */
+    content: url('./assets/o.jpg'); /* Remplacez par le chemin réel de l'image */
     display: block;
     margin: 0 auto;
     width: 100%;

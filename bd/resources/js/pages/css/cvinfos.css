@@ -17,7 +17,7 @@ body {
     justify-content: center;
     text-align: center;
     background-color: #f8f9fa;
-    background-image: url('color.jpg');
+    background-image: url('./assets/color.jpg');
     background-size: cover;
     background-attachment: fixed;
     background-position: center;

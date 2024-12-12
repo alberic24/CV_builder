@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import './cvtemplates.css';
+import './css/cvtemplates.css';
 import template1 from './assets/leo.png';
 import template2 from './assets/cv2.png';
 import template3 from './assets/naru.png';

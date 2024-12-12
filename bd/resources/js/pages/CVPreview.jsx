@@ -1,6 +1,6 @@
 // CVPreview.js
 import React from 'react';
-import './cvpreview.css'; // Assurez-vous d'avoir les styles nécessaires pour la prévisualisation
+import './css/cvpreview.css'; // Assurez-vous d'avoir les styles nécessaires pour la prévisualisation
 
 const CVPreview = ({ cvData, photo }) => {
     return (

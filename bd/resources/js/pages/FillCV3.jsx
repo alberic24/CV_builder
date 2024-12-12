@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
 import CVSection from './CVSection'; // Assurez-vous que ce composant est correctement défini
-import './fillcv.css';
+import './css/fillcv.css';
 import jsPDF from 'jspdf';
 import 'jspdf-autotable';
 

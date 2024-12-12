@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './cvinfos.css';
+import './css/cvinfos.css';
 
 function CVInfos() {
     return (

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './number.css'
+import './css/number.css'
 
 function Number() {
   const [formData, setFormData] = useState({ name: '', age: '', email: '' });
